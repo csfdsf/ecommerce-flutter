@@ -1,16 +1,20 @@
-# ecommerse_app
+# Ecommerce Flutter App 🛒
 
-A new Flutter project.
+A complete eCommerce solution built with Flutter.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+### Home Screen  
+![Home Screen](https://raw.githubusercontent.com/csfdsf/ecommerce-flutter/main/assets/screenShots/100000317.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+### Product Screen  
+![Product Screen](https://raw.githubusercontent.com/csfdsf/ecommerce-flutter/main/assets/screenShots/100000318.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Cart Screen  
+![Cart Screen](https://raw.githubusercontent.com/csfdsf/ecommerce-flutter/main/assets/screenShots/100000319.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+✅ User Authentication  
+✅ Product Listing  
+✅ Cart & Checkout  
+ 

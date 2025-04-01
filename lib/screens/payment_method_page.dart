@@ -183,8 +183,6 @@ class _PaymentMethodPageState extends State<PaymentMethodPage> {
           backgroundColor: Colors.pinkAccent,
         ),
       );
-
-      // ✅ Redirect to Home Page after Payment
       Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => ProductPage()));
     });
   }

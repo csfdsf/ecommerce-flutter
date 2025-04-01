@@ -17,7 +17,7 @@ class ApiService {
         throw Exception('Failed to load products. Status Code: ${response.statusCode}');
       }
     } catch (error) {
-      throw Exception('Error fetching products: $error');
+      throw Exception('Check Your Internet Connection: $error');
     }
   }
 }
